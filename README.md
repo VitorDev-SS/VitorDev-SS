@@ -21,17 +21,9 @@ Sou desenvolvedor focado em **programação mobile**, apaixonado por criar solu�
 
 ---
 
-## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
-
----
-
 ## 📫 Como me encontrar
-- LinkedIn: [seu-linkedin](https://linkedin.com/in/joão-vitor-sousa-240713211)  
-- Portfólio: [seu-site](https://seusite.com)  
+- LinkedIn: [João Vitor Silva](https://linkedin.com/in/joão-vitor-sousa-240713211)  
 - Email: joaovitor16.dev@gmail.com 
-
 ---
 
 ⭐️ Se curtir algum projeto, não esqueça de dar uma estrela!
