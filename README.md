@@ -1,4 +1,4 @@
-# 👋 Olá, me chamo [João Vitor Silva]
+# 👋 Olá Mundo! Me chamo João Vitor!
 
 Bem-vindo ao meu perfil! 🚀  
 Sou desenvolvedor focado em **programação mobile**, apaixonado por criar soluções que conectam pessoas e tornam a vida mais prática.
